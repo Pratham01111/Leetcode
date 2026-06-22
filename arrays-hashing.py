@@ -46,7 +46,7 @@ class Solution:
                     return [i, j]
         return []  # no solution found
     
-# --- Two Sum (hashmap) ---
+# --- Two Sum (hashmap) preferred solution ---
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
         
