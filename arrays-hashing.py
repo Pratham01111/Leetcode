@@ -1,7 +1,7 @@
 from typing import List
 
 
-# --- Contains Duplicate ---
+# --- Contains Duplicate!! ---
 class Solution:
     def hasDuplicate(self, nums: List[int]) -> bool:
         hashmap = set()
